@@ -8,5 +8,4 @@ public class Sword extends Weapon {
 		this.setDmg(1.0);
 		this.setPrice(3000);
 	}
-
 }

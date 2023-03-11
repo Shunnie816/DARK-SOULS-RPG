@@ -35,7 +35,7 @@ public abstract class Stage {
 
 	public void open() {
 		System.out.println("===================================");
-		System.out.println("---------------------" + this.getName() + "-------------------------");
+		System.out.println("          --------------" + this.getName() + "-----------");
 		System.out.println("===================================");
 	}
 
